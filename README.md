@@ -1,2 +1,4 @@
 # Bi-DAF_SQuAD
+### 双向注意流网络
+
 使用Pytorch对BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION论文的复现，并用Bi-DAF模型来做SQuAD2.0数据集的阅读理解任务，F1可以达到71.583
